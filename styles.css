@@ -52,6 +52,7 @@ header h1 {
   border: 1px solid #ccc;
   border-radius: 5px;
   width: 100%;
+  font-weight: 24px;
 }
 
 /* Book section styles */
